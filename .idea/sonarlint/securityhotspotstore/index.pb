@@ -67,3 +67,15 @@ G.idea/sonarlint/issuestore/b/5/b57b3d7496579524432720c18bb114a8f680dd99,4\9\49
 Q.idea/sonarlint/securityhotspotstore/b/e/be13654c037793869c404c92894452b2ba68afbd,3\b\3ba0f10513cbcb51ce0591ef02eeb11564f2a8ae
 w
 G.idea/sonarlint/issuestore/0/1/01e8006b09726edf5beffa4f493f66a74460178d,0\5\05db683808c733183749ffb2631090582ba37847
+_
+/src/javacore/Gassociacao/dominio/Seminario.java,2\e\2e337b41f4f507ffe94afe7d3cf2d3a9ae8b7bb5
+J
+src/javacore/Hheranca.java,b\1\b1c9b234201c8955d04559b32040c4674e3efc4d
+Q
+!src/javacore/Hheranca/Pessoa.java,3\5\35ca307ee5a32dfb7fca257037d9e89dc70a3fb4
+S
+#src/javacore/Hheranca/Endereco.java,6\b\6b0e2c2c5a0bb95f5c7d2406ff99dcf70b283361
+^
+.src/javacore/Hheranca/Test/herancaTeste01.java,3\a\3a9aa0c18e5618c028d6f1bfb016dc887643797e
+V
+&src/javacore/Hheranca/Funcionario.java,7\5\75db48f2104bd256c1976a8d1f735071a10e2e53
