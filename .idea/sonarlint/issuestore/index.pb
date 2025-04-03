@@ -69,8 +69,6 @@ w
 G.idea/sonarlint/issuestore/0/1/01e8006b09726edf5beffa4f493f66a74460178d,0\5\05db683808c733183749ffb2631090582ba37847
 _
 /src/javacore/Gassociacao/dominio/Seminario.java,2\e\2e337b41f4f507ffe94afe7d3cf2d3a9ae8b7bb5
-J
-src/javacore/Hheranca.java,b\1\b1c9b234201c8955d04559b32040c4674e3efc4d
 Q
 !src/javacore/Hheranca/Pessoa.java,3\5\35ca307ee5a32dfb7fca257037d9e89dc70a3fb4
 S
@@ -79,3 +77,13 @@ S
 .src/javacore/Hheranca/Test/herancaTeste01.java,3\a\3a9aa0c18e5618c028d6f1bfb016dc887643797e
 V
 &src/javacore/Hheranca/Funcionario.java,7\5\75db48f2104bd256c1976a8d1f735071a10e2e53
+X
+(src/javacore/Hheranca/domain/Pessoa.java,c\5\c526aa2972bcf8f9ebc74d32a416150ffbe98c61
+]
+-src/javacore/Hheranca/domain/Funcionario.java,4\c\4c9e33bd7242e38ffe05259f3342c2dca5abd368
+[
++src/javacore/Isobrescrita/domain/Anime.java,5\3\534228df47e67042b83494d4cf76c92b4bf74329
+_
+/src/javacore/Isobrescrita/test/AnimeTest01.java,a\9\a9498eb360a06af3b93084dc136cbbacc6089d6d
+Z
+*src/javacore/Hheranca/domain/Endereco.java,7\6\76c11d4e087822b48fe50a0a3425a68ad66e49b1

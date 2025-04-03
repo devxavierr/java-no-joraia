@@ -1,8 +1,8 @@
 package javacore.Hheranca.Test;
 
-import javacore.Hheranca.Endereco;
-import javacore.Hheranca.Funcionario;
-import javacore.Hheranca.Pessoa;
+import javacore.Hheranca.domain.Endereco;
+import javacore.Hheranca.domain.Funcionario;
+import javacore.Hheranca.domain.Pessoa;
 
 public class herancaTeste01 {
 
@@ -10,8 +10,7 @@ public class herancaTeste01 {
         Endereco endereco = new Endereco();
         endereco.setCep("2345435-454");
         endereco.setRua("orquideas");
-        Pessoa pessoa = new Pessoa();
-        pessoa.setNome("Rafael Xavier");
+        Pessoa pessoa = new Pessoa("Rafael Xavier");
         pessoa.setCpf("034834983940348");
         pessoa.setEndereco(endereco);
 
@@ -19,8 +18,7 @@ public class herancaTeste01 {
 
         System.out.println("----------------");
 
-        Funcionario funcionario = new Funcionario();
-        funcionario.setNome("Bobe");
+        Funcionario funcionario = new Funcionario("Bobe");
         funcionario.setCpf("3245546456456");
         funcionario.setEndereco(endereco);
         funcionario.setSalario(20000);

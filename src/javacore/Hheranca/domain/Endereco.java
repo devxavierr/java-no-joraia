@@ -1,4 +1,4 @@
-package javacore.Hheranca;
+package javacore.Hheranca.domain;
 
 public class Endereco {
     private String rua;
