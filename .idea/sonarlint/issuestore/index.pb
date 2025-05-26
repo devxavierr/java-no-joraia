@@ -147,11 +147,13 @@ f
 6src/javacore/OException/error/StackOverflowTest01.java,9\7\97de1abb64ceb882ba2802eba63d63a04ff7b205
 q
 Asrc/javacore/OException/runtime/Test/RuntimeExceptionTeste01.java,c\7\c780a25baeabd8e2d8d771f40e03ccb7fb4136d6
-j
-:src/javacore/OException/runtime/Test/exceptionTeste01.java,3\5\354bcce9e145740ef049d6273689e2639cf539f9
 l
 <src/javacore/OException/exception/test/exceptionTeste01.java,b\6\b60f02b2805eb7c2fff62fd0d023a89545f623b9
 q
 Asrc/javacore/OException/runtime/Test/RuntimeExceptionTeste02.java,4\5\4526bd2f7ba318429772ecaaa9871e1f0f872331
 l
 <src/javacore/OException/exception/test/exceptionTeste02.java,2\c\2ce130e91a6c2290da568f846c97d3ff4c9ee8b3
+q
+Asrc/javacore/OException/runtime/Test/RuntimeExceptionTeste03.java,4\4\44d83c6489b464b278a3fc513a1bd9b364894e31
+q
+Asrc/javacore/OException/runtime/Test/RuntimeExceptionTeste04.java,4\7\47ea670daae0c6ac559705f8aecd22c906b1941b
