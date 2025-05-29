@@ -157,3 +157,13 @@ q
 Asrc/javacore/OException/runtime/Test/RuntimeExceptionTeste03.java,4\4\44d83c6489b464b278a3fc513a1bd9b364894e31
 q
 Asrc/javacore/OException/runtime/Test/RuntimeExceptionTeste04.java,4\7\47ea670daae0c6ac559705f8aecd22c906b1941b
+r
+Bsrc/javacore/OException/exception/test/TryWithResourcesTest01.java,2\7\279838ee07f94f36798ca369b3875cea792eac4f
+f
+6src/javacore/OException/exception/dominio/Leitor1.java,d\1\d15d44b2eab494d5856dc12886d5bb2ecb2f6d70
+f
+6src/javacore/OException/exception/dominio/Leitor2.java,e\f\ef9036d18b04174ca0ebd2d8c0c500f076b66893
+u
+Esrc/javacore/OException/exception/dominio/LoginInvalidoException.java,d\2\d2709979c18865a98cb25e44d00aed569035ac87
+x
+Hsrc/javacore/OException/exception/test/LoginInvalidoExceptionTest01.java,2\1\218c85cb49639e316792eed122ffaf21685e313b
