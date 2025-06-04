@@ -17,6 +17,10 @@ bin/
 
 #Sonar
 **/sonarlint/**
+.idea/sonarlint/**
+**sonarlint**
+
+
 
 ### NetBeans ###
 /nbproject/private/
